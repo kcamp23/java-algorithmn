@@ -6,3 +6,4 @@ const search = (arr,item) => {
 	}
 	return -1;
 };
+// find the index
